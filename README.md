@@ -1,36 +1,30 @@
-# Hi, I'm erevantz 🚀
+# Hi, I'm Emilio (erevantz) 🚀
 
-Developer specialized in the intersection of **Mobile Ecosystems** and **Interactive Environments**. 
-Currently focusing my energy on **Android Native** and **Unity Engine**.
-
----
-
-### 🛠️ My Tech Stack
-
-| Mobile (Android) | Game Dev (Unity) | Tools & Languages |
-| :--- | :--- | :--- |
-| Kotlin / Jetpack Compose | C# / URP | Git / GitHub Actions |
-| Android SDK / Material 3 | Shader Graph | Firebase / SQLite |
-| Room / Retrofit | Mobile Optimization | Figma (UI/UX) |
+Developer specialized in **Android Native** and **Unity Engine**. Creating high-performance apps and interactive 3D experiences.
 
 ---
 
-### 🧪 What I'm working on
+### 🛠️ Tech Stack
 
-- 📱 **Android:** Building clean, architecture-driven apps (MVVM/Clean Arch).
-- 🎮 **Unity:** Developing immersive 2D/3D experiences for mobile devices.
-- 🏗️ **Agora:** [Escribe aquí una frase corta de tu proyecto actual].
+**Mobile Development** ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+
+**Game Development** ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+**Tools** ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
 
 ### 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=erevantz&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erevantz&layout=compact&theme=tokyonight)
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=erevantz&show_icons=true&theme=tokyonight&hide_border=true" alt="erevantz stats" />
+</p>
 
 ---
 
-### 📫 Connect with me
-[LinkedIn](tu-link-aqui) | [Portfolio/Web](tu-link-aqui) | emilio@tucorreo.com
-
-*"If it can be imagined, it can be coded."*
+### 🏗️ Current Projects
+- **Agora**: Building a [Android/Unity] solution for making lecture clubs with your friends, where you can create rooms to debate about a book privately.
