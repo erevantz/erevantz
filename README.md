@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm erevantz 🚀
 
-<!--
-**erevantz/erevantz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer specialized in the intersection of **Mobile Ecosystems** and **Interactive Environments**. 
+Currently focusing my energy on **Android Native** and **Unity Engine**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ My Tech Stack
+
+| Mobile (Android) | Game Dev (Unity) | Tools & Languages |
+| :--- | :--- | :--- |
+| Kotlin / Jetpack Compose | C# / URP | Git / GitHub Actions |
+| Android SDK / Material 3 | Shader Graph | Firebase / SQLite |
+| Room / Retrofit | Mobile Optimization | Figma (UI/UX) |
+
+---
+
+### 🧪 What I'm working on
+
+- 📱 **Android:** Building clean, architecture-driven apps (MVVM/Clean Arch).
+- 🎮 **Unity:** Developing immersive 2D/3D experiences for mobile devices.
+- 🏗️ **Agora:** [Escribe aquí una frase corta de tu proyecto actual].
+
+---
+
+### 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=erevantz&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erevantz&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 Connect with me
+[LinkedIn](tu-link-aqui) | [Portfolio/Web](tu-link-aqui) | emilio@tucorreo.com
+
+*"If it can be imagined, it can be coded."*
